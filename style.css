@@ -3,6 +3,10 @@ body {
     font-family: Roboto Slab;
 }
 
+#container {
+    display: flex;
+}
+
 footer {
     background-color: #000000;
     color: #ffffff;
@@ -16,4 +20,8 @@ footer p {
     text-align: center;
     font-size: 0.8rem;
     margin-top: 0.5rem;
+}
+
+.cartao {
+    margin:  2rem 3rem;
 }
